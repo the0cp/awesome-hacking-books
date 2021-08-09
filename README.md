@@ -19,6 +19,7 @@ We collect books(PDF) all about pentest, from `How to control system` to `Learn 
     - Sam Williams-Free as in Freedom--Richard Stallman's Crusade for Free Software@2010
     - Steven Levy-Hackers--Heroes of the Computer Revolution@2010
 2. Basic
+    - Debian Handbook
     - Control_Systems
     - Kali-Linux-Revealed-1st-edition
     - Learning_the_vi_Editor
