@@ -29,7 +29,12 @@ We collect books(PDF) all about pentest, from `How to control system` to `Learn 
     - William Stallings-Cryptography and Network Security--Principles and Practice@2011
 4. Malware Analysis
     - Michael Sikorski & Andrew Honig-Practical Malware Analysis--The Hands-On Guide to Dissecting Malicious Software@2012
-5. HHS
+5. System Security Manual
+    - Red Hat Enterprise Linux 6 Security Guide@2011
+    - Red Hat Enterprise Linux 7 Security Guide@2018
+    - Red Hat Enterprise Linux 8 Security Hardening@2020
+    - Securing Debian Manual@2015
+6. HHS
     - HHS_en1_Being_a_Hacker.v2
     - HHS_en2_Essential_Commands.v2
     - HHS_en3_Beneath_the_Internet.v2
