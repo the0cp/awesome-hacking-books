@@ -27,7 +27,9 @@ We collect books(PDF) all about pentest, from `How to control system` to `Learn 
     - Bruce Schneier-Applied Cryptography--Protocols, Algorithms, and Source Code in C@1996
     - Bruce Schneier-Applied Cryptography(code).zip
     - William Stallings-Cryptography and Network Security--Principles and Practice@2011
-4. HHS
+4. Malware Analysis
+    - Michael Sikorski & Andrew Honig-Practical Malware Analysis--The Hands-On Guide to Dissecting Malicious Software@2012
+5. HHS
     - HHS_en1_Being_a_Hacker.v2
     - HHS_en2_Essential_Commands.v2
     - HHS_en3_Beneath_the_Internet.v2
