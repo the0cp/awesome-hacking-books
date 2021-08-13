@@ -37,7 +37,9 @@ We collect books(PDF) all about pentest, from `How to control system` to `Learn 
 6. Social Engineering
     - Christopher Hadnagy-Social Engineering--The Science of Human Hacking@2018
     - Kevin Mitnick-The Art of Deception--Controlling the Human Element of Security
-7. HHS
+7. Reverse Engineering
+    - Dennis Yurichev-Reverse Engineering for Beginners--Understanding Assembly Language@2018
+8. HHS
     - HHS_en1_Being_a_Hacker.v2
     - HHS_en2_Essential_Commands.v2
     - HHS_en3_Beneath_the_Internet.v2
