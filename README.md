@@ -58,3 +58,11 @@ We collect books(PDF) all about pentest, from `How to control system` to `Learn 
     - HHS_en10_Web_Security_and_Privacy.v2
     - HHS_en11_Hacking_Passwords.v2
     - HHS_en12_Legalities_and_Ethics
+9. Programming
+    - C/C++
+        - SEI CERT-C Coding Standard@2016
+        - SEI CERT-C++ Coding Standard@2016
+    - Python
+        - Justin Seitz-Black Hat Python--Python Programming for Hackers and Pentesters@2015
+        - Justin Seitz-Gray Hat Python--Python Programming for Hackers and Reverse Engineers@2009
+        - TJ O'Connor-Violent Python--A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers@2013
