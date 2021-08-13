@@ -39,6 +39,12 @@ We collect books(PDF) all about pentest, from `How to control system` to `Learn 
     - Kevin Mitnick-The Art of Deception--Controlling the Human Element of Security
 7. Reverse Engineering
     - Dennis Yurichev-Reverse Engineering for Beginners--Understanding Assembly Language@2018
+8. The Art of Exploitation
+    - Allen Harper-Gray Hat Hacking--The Ethical Hacker's Handbook@2011
+    - Dafydd Stuttard & Marcus Pinto-The Web Application Hacker's Handbook--Finding and Exploiting Security Flaws@2011
+    - Enrico Perla & Massimiliano Oldani-A Guide to Kernel Exploitation--Attacking the Core@2011
+    - Jon Erickson-Hacking--The Art of Exploitation@2008
+    - The Shellcoder's Handbook--Discovering and Exploiting Security Holes@2007
 8. HHS
     - HHS_en1_Being_a_Hacker.v2
     - HHS_en2_Essential_Commands.v2
