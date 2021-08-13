@@ -34,7 +34,10 @@ We collect books(PDF) all about pentest, from `How to control system` to `Learn 
     - Red Hat Enterprise Linux 7 Security Guide@2018
     - Red Hat Enterprise Linux 8 Security Hardening@2020
     - Securing Debian Manual@2015
-6. HHS
+6. Social Engineering
+    - Christopher Hadnagy-Social Engineering--The Science of Human Hacking@2018
+    - Kevin Mitnick-The Art of Deception--Controlling the Human Element of Security
+7. HHS
     - HHS_en1_Being_a_Hacker.v2
     - HHS_en2_Essential_Commands.v2
     - HHS_en3_Beneath_the_Internet.v2
