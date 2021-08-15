@@ -23,6 +23,7 @@ We collect books(PDF) all about pentest, from `How to control system` to `Learn 
     - Control_Systems
     - Kali-Linux-Revealed-1st-edition
     - Learning_the_vi_Editor
+    - OWASP_Code_Review_Guide-V1_1
 3. Cryptography
     - Bruce Schneier-Applied Cryptography--Protocols, Algorithms, and Source Code in C@1996
     - Bruce Schneier-Applied Cryptography(code).zip
