@@ -66,6 +66,10 @@ We collect books(PDF) all about pentest, from `How to control system` to `Learn 
     - C/C++
         - SEI CERT-C Coding Standard@2016
         - SEI CERT-C++ Coding Standard@2016
+        - Andrew Koenig-C Traps and Pitfalls@1989
+        - Brian Kernighan & Dennis Ritchie-The C Programming Language@1988
+        - Mark Burgess-The GNU C Programming Tutorial@2002
+        - Stephen Prata-C Primer Plus@2004
     - Python
         - Justin Seitz-Black Hat Python--Python Programming for Hackers and Pentesters@2015
         - Justin Seitz-Gray Hat Python--Python Programming for Hackers and Reverse Engineers@2009
