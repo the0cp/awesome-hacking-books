@@ -1,0 +1,8 @@
+Sync key:
+ALMPN44YK35WO43YLXR37DH3QAWQWMW4O
+
+How to use:
+1. Open "Resilio Sync"
+2. Add
+3. "Enter a key or link"
+4. Enter my key
