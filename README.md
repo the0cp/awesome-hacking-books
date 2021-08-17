@@ -6,6 +6,15 @@ We collect books(PDF) all about pentest, from `How to control system` to `Learn 
 ### *Reach me: [Hi there!👋 I'm Theodore!](https://github.com/theodorecooper/theodorecooper)*
 <img src = 'https://repository-images.githubusercontent.com/393849655/e7af86b9-9bbd-4800-a454-a360d0677d5c'></img>
 ---
+## How to get books?
+You should use *Resilio Sync* to get books.
+> Resilio Sync by Resilio, Inc. is a proprietary peer-to-peer file synchronization tool. It can sync files between devices on a local network, or between remote devices over the Internet via a modified version of the BitTorrent protocol. 
+>   
+> Resilio Sync synchronizes files using BitTorrent. The user's data is stored on the user's local device instead of in a "cloud", therefore requiring at least two user devices, or "nodes," to be online to synchronize files between them. Resilio Sync encrypts data with an Advanced Encryption Standard AES-128 key in counter mode which may either be randomly generated or set by the user. This key is derived from a "secret" which can be shared to other users to share data. Data is sent between devices directly unless the target device is unreachable (e.g. behind a firewall), in which case the data will first be relayed via an intermediary node. Many devices can be connected simultaneously and files shared between them in a mesh networking topology.  
+
+* So, first download and install Resilio Sync(I'll also put a installer in the repo): https://www.resilio.com/individuals/
+* The sync key is in the key.txt
+
 ## Current Books：
 
 1. Cultrue of Hacking & Open Source  
