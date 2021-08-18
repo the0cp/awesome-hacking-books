@@ -15,7 +15,7 @@ You should use *Resilio Sync* to get books.
 * So, first download and install Resilio Sync(I'll also put a installer in the repo): https://www.resilio.com/individuals/
 * The sync key is in the key.txt
 
-## Current Books：
+## Book list：
 
 1. Cultrue of Hacking & Open Source  
     - Eric Raymond-The Cathedral and the Bazaar--Musings on Linux and Open Source by an Accidental Revolutionary@2001
