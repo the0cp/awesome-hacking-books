@@ -1,13 +1,18 @@
 # Hacking University <img src = 'https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667'></img>
 > Awesome list of tutorials about being a hacker.  
-We collect books(PDF) all about pentest, from `How to control system` to `Learn Pentest`. 
-### The collection will keep updating, adding new books. 
-### *More projects: [@theodorecooper](https://github.com/theodorecooper?tab=repositories)*  
-### *Reach me: [Hi there!👋 I'm Theodore!](https://github.com/theodorecooper/theodorecooper)*
+We collect books(PDF) all about pentest.
+The collection will keep updating, adding new books.  
+*More projects: [@theodorecooper](https://github.com/theodorecooper?tab=repositories)*  
+*Reach me: [Hi there!👋 I'm Theodore!](https://github.com/theodorecooper/theodorecooper)*  
+
 <img src = 'https://repository-images.githubusercontent.com/393849655/e7af86b9-9bbd-4800-a454-a360d0677d5c'></img>
 ---
 ## How to get books?
-You should use *Resilio Sync* to get books.
+### Method Ⅰ
+Use bit torrent to get the books.  
+The torrent file will be in the repo.
+### Method Ⅱ
+Use *Resilio Sync* to get books.
 > Resilio Sync by Resilio, Inc. is a proprietary peer-to-peer file synchronization tool. It can sync files between devices on a local network, or between remote devices over the Internet via a modified version of the BitTorrent protocol. 
 >   
 > Resilio Sync synchronizes files using BitTorrent. The user's data is stored on the user's local device instead of in a "cloud", therefore requiring at least two user devices, or "nodes," to be online to synchronize files between them. Resilio Sync encrypts data with an Advanced Encryption Standard AES-128 key in counter mode which may either be randomly generated or set by the user. This key is derived from a "secret" which can be shared to other users to share data. Data is sent between devices directly unless the target device is unreachable (e.g. behind a firewall), in which case the data will first be relayed via an intermediary node. Many devices can be connected simultaneously and files shared between them in a mesh networking topology.  
