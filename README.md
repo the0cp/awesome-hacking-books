@@ -9,9 +9,12 @@ The collection will keep updating, adding new books.
 ---
 ## How to get books?
 ### Method Ⅰ
+Download from ***anonfiles.com***
+Link: https://anonfiles.com/V223Y0Ceuc/awesome-hacking-books_zip
+### Method Ⅱ
 Use bit torrent to get the books.  
 The torrent file will be in the repo.
-### Method Ⅱ
+### Method Ⅲ
 Use *Resilio Sync* to get books.
 > Resilio Sync by Resilio, Inc. is a proprietary peer-to-peer file synchronization tool. It can sync files between devices on a local network, or between remote devices over the Internet via a modified version of the BitTorrent protocol. 
 >   
